@@ -18,5 +18,5 @@ variable "instance_names" {
 }
 
 resource "aws_s3_bucket" "two" {
-  bucket = "Demo-jenkins-project"
+  bucket = "Abhi-jenkinsproject"
 }
